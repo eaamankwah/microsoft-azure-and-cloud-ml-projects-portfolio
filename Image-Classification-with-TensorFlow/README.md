@@ -8,3 +8,15 @@ Log in to the [AWS console](https://console.aws.amazon.com) and go to the SageMa
 * The notebook name can be anything and using ml.t2.medium is a good idea as it is covered under the free tier.
 * For the role, creating a new role works fine. Using the default options is also okay.
 * It's important to note that you need the notebook instance to have access to S3 resources, which it does by default. In particular, any S3 bucket or object, with “sagemaker" in the name, is available to the notebook.
+
+### Open and run the notebook
+
+The following tasks are to be completed:
+
+* Download the data
+* Prepare the dataset
+* Create the model
+* Data generators
+* Arguments
+* Finalizing the training script
+* Upload Dataset to S3
