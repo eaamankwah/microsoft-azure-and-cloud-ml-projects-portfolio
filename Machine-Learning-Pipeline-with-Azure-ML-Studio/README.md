@@ -1,5 +1,5 @@
 The experiments provided in this repository are intended to be executed using Microsoft Azure platform. The following is a link setting up a Azure Machine Learning Studio , from which the Azure machine learning classic studio experiments can be completed and run.
-### Log in to the AWS console and create a notebook instance
+### Log in to the Azure ML console and create a notebook instance
 
 Log in to the [Microsoft Azure machine learning](Azure Machine Learning Studio ) and go to the Experiments tab. Click on 'Create a new experiment.
 
